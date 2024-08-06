@@ -79,3 +79,43 @@ I'm using my knowleage to make websites dynamic. 🕺🏽
    <img src ="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 
 </div>
+### 📫 How to reach me
+
+<div display="flex">
+  <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-th%C3%A0nh-09b20b253/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/isekai2003">
+    <img src="https://img.shields.io/badge/Facebook-ffffff?style=for-the-badge&logo=facebook&logoColor=blue" alt="Facebook"/>
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://github.com/huscongao1692003">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=huscongao1692003&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/huscongao1692003">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huscongao1692003&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/huscongao1692003"><img alt="huscongao1692003's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=huscongao1692003&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/huscongao1692003"><img alt="huscongao1692003's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=huscongao1692003&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
+
+<br/>
+### ⚡ Fun fact
+
+- I'm like to listening to music 👩‍🎤
+ <!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/huscongao1692003/spotify-github-profile -->
+<p align="center">
+<a href="https://www.youtube.com/watch?v=7i0gz1sVs4w"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
+
