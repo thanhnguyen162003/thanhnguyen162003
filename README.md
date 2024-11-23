@@ -16,7 +16,8 @@ I'm using my knowleage to make websites dynamic. 🕺🏽
   <img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.net-ffffff?style=for-the-badge&logo=c-sharp&logoColor=9966ff" alt="CSharp"/>
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.net-ffffff?style=for-the-badge&logo=c-sharp&logoColor=9966ff"/>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -76,10 +77,12 @@ I'm using my knowleage to make websites dynamic. 🕺🏽
 ### 🔭 I’m studying on
 
 - FPT University (From 2021)
-- 
+
+  
 ### 🔭 Computer im using
 - Thinkpad t14s Gen4
 <img src="https://img.shields.io/badge/lenovo-E2231A?style=for-the-badge&logo=lenovo&logoColor=white"/>
+
 
 ### 🌱 I’m learning
 
@@ -89,6 +92,8 @@ I'm using my knowleage to make websites dynamic. 🕺🏽
    <img src ="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
    <img src ="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 </div>
+
+
 ### 📫 How to reach me
 
 <div display="flex">
