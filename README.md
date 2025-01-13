@@ -98,7 +98,7 @@ I'm using my knowleage to make websites dynamic. 🕺🏽
 ### 📫 How to reach me
 
 <div display="flex">
-  <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-th%C3%A0nh-09b20b253/">
+  <a href="https://www.linkedin.com/in/nguyenthanh1692003/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.facebook.com/isekai2003">
