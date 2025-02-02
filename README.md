@@ -35,11 +35,6 @@ I'm using my knowleage to make websites dynamic. 🕺🏽
    <img src ="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
    <img src ="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/> -->
 
-
-   
-
-  
-  
   
 </div>
 
@@ -81,9 +76,7 @@ I'm using my knowleage to make websites dynamic. 🕺🏽
 
   
 ### 🔭 Computer im using
-- Thinkpad t14s Gen4
-<img src="https://img.shields.io/badge/lenovo-E2231A?style=for-the-badge&logo=lenovo&logoColor=white"/>
-
+- Thinkpad t14s Gen4 <img src="https://img.shields.io/badge/lenovo-E2231A?style=for-the-badge&logo=lenovo&logoColor=white"/>
 
 ### 🌱 I’m learning
 
@@ -91,7 +84,6 @@ I'm using my knowleage to make websites dynamic. 🕺🏽
   <img src="https://img.shields.io/badge/Flutter-ffffff?style=for-the-badge&logo=flutter&logoColor=33ccff"/>
   <img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
    <img src ="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
-   <img src ="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 </div>
 
 
@@ -111,9 +103,6 @@ I'm using my knowleage to make websites dynamic. 🕺🏽
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
-
-<br/>
 ### ⚡ Fun fact
 
 - I'm like to listening to music 👩‍🎤
