@@ -21,7 +21,6 @@ I'm using my knowleage to make websites dynamic. 🕺🏽
   <img src="https://img.shields.io/badge/.net-ffffff?style=for-the-badge&logo=c-sharp&logoColor=9966ff"/>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -30,10 +29,7 @@ I'm using my knowleage to make websites dynamic. 🕺🏽
    <img src ="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/>
    <img src ="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
    <img src ="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
-<!--    <img src ="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
-   <img src ="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
-   <img src ="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
-   <img src ="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/> -->
+    
 
   
 </div>
@@ -76,15 +72,7 @@ I'm using my knowleage to make websites dynamic. 🕺🏽
 
   
 ### 🔭 Computer im using
-- Thinkpad t14s Gen4 <img src="https://img.shields.io/badge/lenovo-E2231A?style=for-the-badge&logo=lenovo&logoColor=white"/>
-
-### 🌱 I’m learning
-
-<div display="flex">
-  <img src="https://img.shields.io/badge/Flutter-ffffff?style=for-the-badge&logo=flutter&logoColor=33ccff"/>
-  <img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
-   <img src ="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
-</div>
+- Thinkpad t14s Gen4   <img src="https://img.shields.io/badge/lenovo-E2231A?style=for-the-badge&logo=lenovo&logoColor=white"/>
 
 
 ### 📫 How to reach me
